@@ -28,5 +28,5 @@ Then paste this html code into your body and refresh browser...
 
 Plugin applies fast-styles into chosen html element like
 ```html
-<div class="_fnVerdana _fs15px _bgCdedede _mB20" style="margin-bottom: 20px; font-family: Verdana; font-size: 15px; background-color: rgb(222, 222, 222);">Lorem lipsum sit dolor amet</div>
+<div style="margin-bottom: 20px; font-family: Verdana; font-size: 15px; background-color: rgb(222, 222, 222);" class="_fnVerdana _fs15px _bgCdedede _mB20">Lorem lipsum sit dolor amet</div>
 ```
