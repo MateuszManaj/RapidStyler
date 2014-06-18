@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="61be952e-1712-439f-8bed-8e0c832083d4" name="Default" comment="">
-      <change type="MOVED" beforePath="C:\Users\Mateusz Manaj\Documents\GitHub\RapidStyler\RapidStyler.js" afterPath="$PROJECT_DIR$/_app/RapidStyler.js" />
-      <change type="MOVED" beforePath="C:\Users\Mateusz Manaj\Documents\GitHub\RapidStyler\RapidStyler.min.js" afterPath="$PROJECT_DIR$/_app/RapidStyler.min.js" />
-      <change type="MOVED" beforePath="C:\Users\Mateusz Manaj\Documents\GitHub\RapidStyler\index.html" afterPath="$PROJECT_DIR$/_app/index.html" />
-      <change type="MOVED" beforePath="C:\Users\Mateusz Manaj\Documents\GitHub\RapidStyler\tests\_htmlClassGenerator.php" afterPath="$PROJECT_DIR$/_tests/_htmlClassGenerator.php" />
-      <change type="MOVED" beforePath="C:\Users\Mateusz Manaj\Documents\GitHub\RapidStyler\tests\test.html" afterPath="$PROJECT_DIR$/_tests/test.html" />
-    </list>
+    <list default="true" id="61be952e-1712-439f-8bed-8e0c832083d4" name="Default" comment="" />
     <ignored path="RapidStyler.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
