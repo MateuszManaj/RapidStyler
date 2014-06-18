@@ -3,6 +3,9 @@ RapidStyler
 
 For the fastest styles ever.
 
+### Basics
+html class ```_fnVerdana``` --> ```html style="font-family: Verdana;" ```
+
 ### How to...
 
 Include [jQuery](http://code.jquery.com/jquery-latest.min.js) and RapidStyler.js into your html file and run following code
