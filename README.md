@@ -4,7 +4,7 @@ RapidStyler
 For the fastest styles ever.
 
 ### Basics
-html class ```_fnVerdana``` --> ```html style="font-family: Verdana;" ```
+change html class ```_fnVerdana``` to ```style="font-family: Verdana;"```
 
 ### How to...
 
