@@ -39,6 +39,17 @@ Plugin applies fast-styles into chosen html element like
 0.  ```!``` sign at the end of classname means ```!important``` in css code
 
 #### List of available class meanings
-|Classname|Use example|
-|---------|-----------|
-|m          |m10, m23           |
+|Classname|Use example|CSS Meaning|
+|---------|-----------|-----------|
+|m        |m10           |margin: 10px;  |
+|mB     |mB15       |margin-bottom: 15px;|
+|mT     |mT12       |margin-top: 12px;|
+|mL     |mL9        |margin-left: 9px;|
+|mR     |mR3        |margin-right: 3px;|
+|taL    |taL        |text-align: left;|
+|taJ    |taJ        |text-align: justify;|
+|taC    |taC        |text-align: center;|
+|taR    |taR        |text-align: right;|
+|fL     |fL         |float: left;|
+|fR     |fR         |float: right;|
+
