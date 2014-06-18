@@ -4,7 +4,7 @@ RapidStyler
 For the fastest styles ever.
 
 ### Basics
-Change html classes like ```class="_fnVerdana"``` to ```style="font-family: Verdana;"```
+Converts html classes like ```class="_fnVerdana"``` to ```style="font-family: Verdana;"```
 or even ```class="_bgCdedede!"``` to ```style="background-color: rgb(222, 222, 222);"``` and many more...
 
 ### How to...
