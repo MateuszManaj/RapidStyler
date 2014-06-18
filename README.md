@@ -53,9 +53,9 @@ Plugin applies fast-styles into chosen html element like
 |dN     |dN         |``` display: none; ```|
 |dIb     |dIb         |``` display: inline-block; ```|
 |vH     |vH         |``` visibility: hidden; ```|
-|vV     |vV         |``` visibility: visible ```|
+|vV     |vV         |``` visibility: visible; ```|
 |m0a     |m0a         |``` margin: 0 auto; ```|
-|p     |p34         |``` padding: 34px ```|
+|p     |p34         |``` padding: 34px; ```|
 |pB12     |pB12         |``` padding-bottom: 12px; ```|
 |pT24     |pT24         |``` padding-top: 24px; ```|
 |pL8     |pL8         |``` padding-left: 8px; ```|
