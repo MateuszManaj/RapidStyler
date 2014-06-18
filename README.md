@@ -14,12 +14,7 @@ Include [jQuery](http://code.jquery.com/jquery-latest.min.js) and RapidStyler.js
 <script src="http://code.jquery.com/jquery-latest.min.js"></script>
 <script src="RapidStyler.js"></script>
 <script>
-
-    $(function()
-    {
-        $.RapidStyler();
-    });
-
+    $(function() { $.RapidStyler(); });
 </script>
 ```
 
