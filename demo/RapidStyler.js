@@ -123,15 +123,15 @@
             },
             {
                 "pattern" : $.fn.RapidStyler.settings.prefix + "minwdt([0-9]+)p(!?)",
-                "style" : "min-width: $1\\%"
+                "style" : "min-width: $1%"
             },
             {
                 "pattern" : $.fn.RapidStyler.settings.prefix + "maxwdt([0-9]+)p(!?)",
-                "style" : "max-width: $1\\%"
+                "style" : "max-width: $1%"
             },
             {
                 "pattern" : $.fn.RapidStyler.settings.prefix + "wdt([0-9]+)p(!?)",
-                "style" : "width: $1\\%"
+                "style" : "width: $1%"
             },
             {
                 "pattern" : $.fn.RapidStyler.settings.prefix + "minhgt([0-9]+)(!?)",
@@ -147,15 +147,15 @@
             },
             {
                 "pattern" : $.fn.RapidStyler.settings.prefix + "minhgt([0-9]+)p(!?)",
-                "style" : "min-height: $1\\%"
+                "style" : "min-height: $1%"
             },
             {
                 "pattern" : $.fn.RapidStyler.settings.prefix + "maxhgt([0-9]+)p(!?)",
-                "style" : "max-height: $1\\%"
+                "style" : "max-height: $1%"
             },
             {
                 "pattern" : $.fn.RapidStyler.settings.prefix + "hgt([0-9]+)p(!?)",
-                "style" : "height: $1\\%"
+                "style" : "height: $1%"
             },
             {
                 "pattern" : $.fn.RapidStyler.settings.prefix + "oA(!?)",
