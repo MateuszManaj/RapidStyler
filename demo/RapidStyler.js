@@ -170,7 +170,7 @@
                 "style" : "font-family: $1"
             },
             {
-                "pattern" : $.fn.RapidStyler.settings.prefix + "fs([0-9]+)(px|em)(!?)",
+                "pattern" : $.fn.RapidStyler.settings.prefix + "fs([0-9\.]+)(px|em)(!?)",
                 "style" : "font-size: $1$2"
             },
             {
