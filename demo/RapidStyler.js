@@ -174,7 +174,7 @@
                 "style" : "font-size: $1$2"
             },
             {
-                "pattern" : $.fn.RapidStyler.settings.prefix + "fw([0-9a-z\.]+)(!?)",
+                "pattern" : $.fn.RapidStyler.settings.prefix + "fw([0-9a-z]+)(!?)",
                 "style" : "font-weight: $1"
             },
             {
