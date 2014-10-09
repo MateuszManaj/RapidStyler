@@ -77,6 +77,7 @@ Plugin applies fast-styles into chosen html element like
 |fn     |fnVerdana         |``` font-family: Verdana; ```|
 |fs     |fs13px         |``` font-size: 13px; ```|
 |fs-em     |fs3em         |``` font-size: 2em; ```|
+|fw     |fw400         |``` font-weight: 300; ```|
 |bgC     |bgC00ff00         |``` background-color: #00ff00; ```|
 
 

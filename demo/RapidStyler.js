@@ -174,6 +174,10 @@
                 "style" : "font-size: $1$2"
             },
             {
+                "pattern" : $.fn.RapidStyler.settings.prefix + "fw([0-9a-z]+)(!?)",
+                "style" : "font-weight: $1"
+            },
+            {
                 "pattern" : $.fn.RapidStyler.settings.prefix + "bgC([a-f0-9]+)(!?)",
                 "style" : "background-color: #$1"
             }
