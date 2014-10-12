@@ -180,6 +180,10 @@
             {
                 "pattern" : $.fn.RapidStyler.settings.prefix + "bgC([a-f0-9]+)(!?)",
                 "style" : "background-color: #$1"
+            },
+            {
+                "pattern" : $.fn.RapidStyler.settings.prefix + "td([a-z]+)(!?)",
+                "style" : "text-decoration: $1"
             }
         ];
 
