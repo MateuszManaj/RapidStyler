@@ -58,6 +58,10 @@
                 "style" : "float: left"
             },
             {
+                "pattern" : $.fn.RapidStyler.settings.prefix + "fN(!?)",
+                "style" : "float: none"
+            },
+            {
                 "pattern" : $.fn.RapidStyler.settings.prefix + "fR(!?)",
                 "style" : "float: right"
             },
@@ -166,7 +170,7 @@
                 "style" : "color: #$1"
             },
             {
-                "pattern" : $.fn.RapidStyler.settings.prefix + "fn([a-fA-Z0-9]+)(!?)",
+                "pattern" : $.fn.RapidStyler.settings.prefix + "ff([a-fA-Z0-9]+)(!?)",
                 "style" : "font-family: $1"
             },
             {
